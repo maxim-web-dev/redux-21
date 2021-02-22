@@ -31,3 +31,8 @@ Hold Application State => Update State Component
 ### Reducer
 Create new State => Store
 
+## Redux DevTools
+Google Chrome DevTools:
+[https://chrome.google.com/webstore/detail/redux-devtools/][dev-tools]
+
+[dev-tools]: https://chrome.google.com/webstore/detail/redux-devtools/
