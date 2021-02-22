@@ -1,4 +1,4 @@
-## Redux
+## Redux Counter Example
 
 ## Install
 1. `git clone https://github.com/maxim-web-dev/redux-21.git`
